@@ -362,8 +362,8 @@ document.addEventListener("DOMContentLoaded", () => {
         try {
 
             const response = await fetch(
-                ,"https://anthropology-display-word-architectural.trycloudflare.com/chat"
-                
+                "https://anthropology-display-word-architectural.trycloudflare.com/chat",
+                {
                     method: "POST",
 
                     headers: {
