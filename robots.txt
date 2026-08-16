@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nhyiraanarfi7-prog.github.io/nka-tech/sitemap.xml
